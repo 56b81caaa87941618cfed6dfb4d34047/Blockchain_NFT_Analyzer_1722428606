@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive NFT search bar for specific collections or artists\", \"checked\": false}, {\"feature\": \"Real-time NFT price tracker and fluctuations chart\", \"checked\": true}, {\"feature\": \"Advanced filters for sorting NFTs by price, rarity, and category\", \"checked\": false}, {\"feature\": \"Personalized user dashboards for tracking favourite NFT collections\", \"checked\": true}, {\"feature\": \"Social sharing options for NFTs on various social media platforms\", \"checked\": false}, {\"feature\": \"NFT rarity and metadata analysis tools\", \"checked\": true}], \"input_token_count\": 217, \"output_token_count\": 124, \"time_taken\": \"0:00:03.303027\"}",
+        "message_id": "guest31072024122559",
+        "timestamp": "31072024122603",
+        "component_file_name": "simple_footer_component_1722428608",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly would you like this 'Hello World' button to be positioned within the app?\", \"option1\": \"On the main screen, visible as soon as the app is opened\", \"option2\": \"In a specific section of the app, please specify\"}, {\"question 2\": \"What action should be triggered when the 'Hello World' button is clicked?\", \"option1\": \"Display a simple popup message saying 'Hello World!'\", \"option2\": \"Navigate to another screen or perform a specific action, please specify\"}], \"input_token_count\": 263, \"output_token_count\": 122, \"time_taken\": \"0:00:03.239534\"}",
         "message_id": "guest31072024122559",
