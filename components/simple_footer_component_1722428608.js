@@ -17,6 +17,12 @@ Vue.component("simple_footer_component_1722428608", {
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         Gain powerful insights into the latest NFT trends and collections across multiple blockchain networks. Stay ahead of the curve with real-time analytics and data visualization tools tailored for NFT enthusiasts and investors.
                     </div>
+                    </div>
+                </div>
+                <div class="flex justify-center mt-4">
+                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                        Hello World
+                    </button>
                 </div>
             </div>
         </footer> 
